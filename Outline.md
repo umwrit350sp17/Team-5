@@ -13,11 +13,11 @@ https://robcubbon.com/comparing-photoshop-gimp-web-design/
 
 Title: A student guide to success in photoediting 
  
- 1. Introduction
+  Introduction
  
  In order to attract our specific demographic and make Gimp appeal to photography majors, we need to insisit on how necessary this software is. We need to provide solid information about why this software stands out. It's crucial that we hone in on the benefits that seperate this program from others, which are that it's cost-effective, professional, and is readily downloadble for various operating systems. 
  
- 2. Instructions 
+ Instructions 
  
  We want to limit our instructions and make our step by step guide concise, yet detailed. 
  
@@ -32,7 +32,7 @@ Title: A student guide to success in photoediting
  6. Brighten up specific sectors of an image to create contrast or better lighting
  7. Fix distroted images 
  
- 3. Conclusion
+ Conclusion
  
  In order to ensure that our consumers are utilizing and understanding the full optimization we will provide a technology link for support and inquires. Although, we are confident and hopeful with our videos and screenshots. 
  
