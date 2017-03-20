@@ -10,7 +10,20 @@ https://robcubbon.com/comparing-photoshop-gimp-web-design/
 - We plan on using step by step detailed instructions 
 - Our multimedia element will most likely include screenshots, because we believe that those will be the most effective for our target publics
 - There aren't any external links at this point that we feel the need to include other than the Gimp website. https://www.gimp.org/ 
-Title: 
+
+Title: A student guide to success in photoediting 
+ 
+ 1. Introduction
+ 
+ In order to attract our specific demographic and make Gimp appeal to photography majors, we need to insisit on how necessary this software is. We need to provide solid information about why this software stands out. It's crucial that we hone in on the benefits that seperate this program from others, which are that it's cost-effective, professional, and is readily downloadble for various operating systems. 
+ 
+ 2. Instructions 
+ 
+ We want to limit our instructions and make our step by step guide concise, yet detailed. 
+ 
+ The multimedia content will include before and after photos to show the details this software has to offer. We will also be including a video example that shows the various ways in which you can edit and how to do so. 
+ 
+ 
   
   
 
