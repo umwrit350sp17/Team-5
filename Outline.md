@@ -23,6 +23,18 @@ Title: A student guide to success in photoediting
  
  The multimedia content will include before and after photos to show the details this software has to offer. We will also be including a video example that shows the various ways in which you can edit and how to do so. 
  
+ There will be 7 steps listed with pictures for additional support. 
+ 1. Cloning objects
+ 2. Photo Enhancement
+ 3. Layers
+ 4. Digital Retouching
+ 5. Customize Interface
+ 6. Brighten up specific sectors of an image to create contrast or better lighting
+ 7. Fix distroted images 
+ 
+ 3. Conclusion
+ 
+ In order to ensure that our consumers are utilizing and understanding the full optimization we will provide a technology link for support and inquires. Although, we are confident and hopeful with our videos and screenshots. 
  
   
   
