@@ -1,7 +1,7 @@
 Team Charter:
 
 Broad Goals:
-  1. To demonstrate to potential fresman in photography classes how to easily edit photos without having to purchase expensive editing software.
+  1. To demonstrate to potential freshman in photography classes how to easily edit photos without having to purchase expensive editing software.
   2. To present a project with guidelines easy for all to use
   
 Measureable Goals:
